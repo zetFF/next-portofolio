@@ -1,0 +1,78 @@
+{
+  "title": "Featured Projects",
+  "categories": ["Web", "Mobile", "Design", "Branding"],
+  "projects": [
+    {
+      "id": "01",
+      "title": "E-commerce Platform Redesign",
+      "client": "Global Retail",
+      "location": "New York, USA",
+      "category": "Web",
+      "budget": "$15,000 - $20,000",
+      "duration": "3 months",
+      "imageUrl": "/images/projects/project1.jpg",
+      "detailUrl": "/projects/e-commerce-redesign",
+      "description": "A comprehensive redesign of an e-commerce platform focused on improving user experience and increasing conversion rates. The project involved extensive user research, wireframing, and a complete overhaul of the UI/UX design."
+    },
+    {
+      "id": "02",
+      "title": "Mobile Banking App",
+      "client": "FinTech Solutions",
+      "location": "London, UK",
+      "category": "Mobile",
+      "budget": "$30,000 - $40,000",
+      "duration": "6 months",
+      "imageUrl": "/images/projects/project2.jpg",
+      "detailUrl": "/projects/mobile-banking-app",
+      "description": "Development of a secure and user-friendly mobile banking application with advanced features including biometric authentication, real-time transaction monitoring, and customizable budget tracking tools."
+    },
+    {
+      "id": "03",
+      "title": "Corporate Brand Identity",
+      "client": "Tech Innovations Inc.",
+      "location": "San Francisco, USA",
+      "category": "Branding",
+      "budget": "$10,000 - $15,000",
+      "duration": "2 months",
+      "imageUrl": "/images/projects/project3.jpg",
+      "detailUrl": "/projects/corporate-brand-identity",
+      "description": "Creation of a cohesive brand identity system including logo design, color palette, typography, and comprehensive brand guidelines to ensure consistent representation across all platforms and materials."
+    },
+    {
+      "id": "04",
+      "title": "SaaS Dashboard UI Design",
+      "client": "CloudServe Solutions",
+      "location": "Berlin, Germany",
+      "category": "Design",
+      "budget": "$8,000 - $12,000",
+      "duration": "1.5 months",
+      "imageUrl": "/images/projects/project4.jpg",
+      "detailUrl": "/projects/saas-dashboard-design",
+      "description": "Design of an intuitive and visually appealing dashboard for a SaaS platform, focusing on data visualization, user flow optimization, and accessibility considerations."
+    },
+    {
+      "id": "05",
+      "title": "Restaurant Ordering System",
+      "client": "Gourmet Group",
+      "location": "Sydney, Australia",
+      "category": "Web",
+      "budget": "$18,000 - $25,000",
+      "duration": "4 months",
+      "imageUrl": "/images/projects/project5.jpg",
+      "detailUrl": "/projects/restaurant-ordering-system",
+      "description": "Development of a comprehensive web-based ordering system for a restaurant chain, featuring inventory management, real-time order tracking, and integration with point-of-sale systems."
+    },
+    {
+      "id": "06",
+      "title": "Fitness Tracking Mobile App",
+      "client": "HealthFirst",
+      "location": "Toronto, Canada",
+      "category": "Mobile",
+      "budget": "$20,000 - $30,000",
+      "duration": "5 months",
+      "imageUrl": "/images/projects/project6.jpg",
+      "detailUrl": "/projects/fitness-tracking-app",
+      "description": "Design and development of a feature-rich fitness tracking application with workout plans, progress monitoring, social sharing capabilities, and integration with wearable devices."
+    }
+  ]
+}

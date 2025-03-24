@@ -1,0 +1,48 @@
+{
+  "title": "Our Services",
+  "description": "We offer a wide range of cutting-edge solutions tailored to your specific needs and goals.",
+  "services": [
+    {
+      "id": "01",
+      "title": "Web Development",
+      "description": "We create stunning, responsive websites optimized for performance, using the latest technologies and best practices.",
+      "category": "development",
+      "features": ["Custom-built applications", "Responsive design", "Performance optimization", "SEO-friendly architecture"]
+    },
+    {
+      "id": "02",
+      "title": "UI/UX Design",
+      "description": "We design intuitive and engaging user experiences that delight your customers and strengthen your brand.",
+      "category": "design",
+      "features": ["User research", "Wireframing & prototyping", "Visual design", "Usability testing"]
+    },
+    {
+      "id": "03",
+      "title": "Mobile Development",
+      "description": "We build cross-platform and native mobile applications that provide seamless experiences across all devices.",
+      "category": "development",
+      "features": ["iOS & Android apps", "React Native development", "Flutter development", "App Store optimization"]
+    },
+    {
+      "id": "04",
+      "title": "Digital Strategy",
+      "description": "We help businesses define clear digital strategies to achieve their goals and maximize their online potential.",
+      "category": "consulting",
+      "features": ["Market analysis", "Digital transformation", "Growth strategies", "Performance tracking"]
+    },
+    {
+      "id": "05",
+      "title": "E-commerce Solutions",
+      "description": "We develop powerful e-commerce platforms that drive sales and provide exceptional shopping experiences.",
+      "category": "development",
+      "features": ["Custom storefronts", "Payment integration", "Inventory management", "Analytics & reporting"]
+    },
+    {
+      "id": "06",
+      "title": "Brand Identity",
+      "description": "We create distinctive brand identities that communicate your values and resonate with your target audience.",
+      "category": "design",
+      "features": ["Logo design", "Visual identity", "Brand guidelines", "Marketing materials"]
+    }
+  ]
+}

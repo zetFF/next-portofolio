@@ -1,0 +1,19 @@
+{
+  "title": "Testimonials",
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Client Name",
+      "position": "Founder/CEO",
+      "company": "Company Name",
+      "text": "Working with you has been a fantastic experience. Your web design and development skills are truly top-notch, bringing creative ideas to life with precision and care. What sets you apart is your excellent communication throughout the project, always keeping me informed and ensuring the end result exceeded expectations."
+    },
+    {
+      "id": 2,
+      "name": "Another Client",
+      "position": "Founder, President",
+      "company": "Another Company",
+      "text": "You are a dream to work with. I've collaborated with hundreds of designers throughout my career and you are head and shoulders above the crowd. You took my rough design ideas and together with a clear understanding of our business and audience delivered a beautiful site, and you did in a quick turnaround time. The process was a delight."
+    }
+  ]
+}

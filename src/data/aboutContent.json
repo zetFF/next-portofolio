@@ -1,0 +1,42 @@
+{
+  "title": "About Me",
+  "paragraphs": [
+    "I'm a designer and developer passionate about merging creativity with technology.",
+    "Frustrated by seeing my designs lose their essence during development, I mastered both skills to ensure projects maintain visual integrity and functional excellence."
+  ],
+  "skills": [
+    "Design",
+    "Development",
+    "Animation",
+    "User Interface",
+    "3D",
+    "User Experience",
+    "Brand",
+    "Ideas",
+    "Startups",
+    "Web Design",
+    "Prototyping",
+    "Motion Graphics",
+    "Content Writing",
+    "E-commerce"
+  ],
+  "emphasisPhrases": ["I love crafting", "and I'm not afraid", "of exploring", "3d solutions", "Immersive experiences"],
+  "skillsByCategory": {
+    "Frontend": [
+      { "name": "React", "level": 90 },
+      { "name": "Vue", "level": 85 }
+    ],
+    "Backend": [
+      { "name": "Node.js", "level": 85 },
+      { "name": "Express", "level": 80 }
+    ]
+  },
+  "experience": {
+    "years": 8,
+    "projects": 120
+  },
+  "journey": [
+    { "year": "2020-Present", "title": "Senior Developer", "description": "..." },
+    { "year": "2018-2020", "title": "Frontend Developer", "description": "..." }
+  ]
+}

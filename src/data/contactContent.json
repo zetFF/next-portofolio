@@ -1,0 +1,46 @@
+{
+  "title": "Let's Talk",
+  "subtitle": "Ready to bring your ideas to life?",
+  "email": "your@email.com",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/yourname",
+      "icon": "LinkedIn"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/yourusername",
+      "icon": "GitHub"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/yourusername",
+      "icon": "Twitter"
+    }
+  ],
+  "formFields": [
+    {
+      "id": "name",
+      "label": "Your Name",
+      "type": "text",
+      "placeholder": "John Doe",
+      "required": true
+    },
+    {
+      "id": "email",
+      "label": "Email Address",
+      "type": "email",
+      "placeholder": "john@example.com",
+      "required": true
+    },
+    {
+      "id": "message",
+      "label": "Your Message",
+      "type": "textarea",
+      "placeholder": "Tell me about your project...",
+      "required": true
+    }
+  ],
+  "submitText": "Send Message"
+}
